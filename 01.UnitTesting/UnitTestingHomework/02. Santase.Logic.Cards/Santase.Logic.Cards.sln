@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santase.Logic.Cards", "Santase.Logic.Cards\Santase.Logic.Cards.csproj", "{B9B2F1DA-B2F8-40F4-949D-59DFA3609717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santase.Logic.Cards.Tests", "Santase.Logic.Cards.Tests\Santase.Logic.Cards.Tests.csproj", "{B953AF46-3479-46A7-AAAB-48A576F1C1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B2F1DA-B2F8-40F4-949D-59DFA3609717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B2F1DA-B2F8-40F4-949D-59DFA3609717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B2F1DA-B2F8-40F4-949D-59DFA3609717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B2F1DA-B2F8-40F4-949D-59DFA3609717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B953AF46-3479-46A7-AAAB-48A576F1C1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B953AF46-3479-46A7-AAAB-48A576F1C1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B953AF46-3479-46A7-AAAB-48A576F1C1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B953AF46-3479-46A7-AAAB-48A576F1C1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

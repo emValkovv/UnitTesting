@@ -1,0 +1,5 @@
+Santase.Logic.Cards.Tests.DeckTest.CanDrawNewCardWhenDeckIsEmpty
+Santase.Logic.Cards.Tests.DeckTest.CardDeckMustBe24CardsAtBegining
+Santase.Logic.Cards.Tests.DeckTest.ChangeCardWithTrumCard
+Santase.Logic.Cards.Tests.DeckTest.ChangeTrumCardWithNullCard
+Santase.Logic.Cards.Tests.DeckTest.NextCardCantBeNull
